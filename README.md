@@ -43,7 +43,7 @@
 31. JAIME JUNIOR
 32. MATIAS ALEXANDER
 33. SELENE BETZABE YARLEQUE JUAREZ
-34. GLAUXIA MERCEDES
+34. GLAUXIA MERCEDES ZAPATA AUZA
 
 ---
 **Nota:** Esta es una práctica de colaboración en Git/GitHub. Respeta el trabajo de tus compañeros modificando únicamente tu línea correspondiente.
